@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HollyLlama
 - 👀 I’m interested in front-end web development and all things creative!
-- 🌱 I’m currently learning SASS & Bootstrap. As a Skillcrush student, I have already learned HTML, CSS, Git, JavaScript & WordPress.
+- 🌱 I’m currently learning Ruby. As a Skillcrush student, I have already learned HTML, CSS, SASS, Git, JavaScript & WordPress.
 - 💞️ I’m looking to collaborate on something fun and playful.
 - 📫 Connect with me on my website at https://hollyllama.com/.
 
